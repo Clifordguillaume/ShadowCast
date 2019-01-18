@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ShadowCast</string>
+    <string name="nav_chats">Chats</string>
+    <string name="nav_camera">Camera</string>
+    <string name="nav_contacts">Contacts</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
